@@ -2441,3 +2441,6 @@ function winwheelLoadedImage()
         }
     }
 }
+
+// for Power BI visual
+window.Winwheel = Winwheel;
